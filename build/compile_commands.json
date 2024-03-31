@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/timofey/Рабочий стол/LR_Parallel/lr1_odd_even/build",
+  "command": "/usr/bin/g++  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -g -o CMakeFiles/lr1.dir/main.cpp.o -c \"/home/timofey/Рабочий стол/LR_Parallel/lr1_odd_even/main.cpp\"",
+  "file": "/home/timofey/Рабочий стол/LR_Parallel/lr1_odd_even/main.cpp"
+}
+]
